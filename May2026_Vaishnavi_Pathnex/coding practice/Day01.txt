@@ -1,0 +1,5 @@
+Day01 Coding Practice:
+
+- Practiced basic Linux commands
+- Learned git add, commit, push
+
